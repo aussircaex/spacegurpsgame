@@ -1,0 +1,3 @@
+Leviathan Interstellar is a massive conglomerate company and one of the [[Terran Sector]]'s largest and most powerful corporations. Shipping and transportation remain their largest business, but the company is also a major player in a multitude of related industries such as retail, information security, private security, insurance, and data brokerage services.
+
+Leviathan has carefully cultivated a public image of *not* being a mercenary company, and they officially do not take contracts that involve direct conflict between major political entities. However, the lines between mercenary work and armed security for interstellar shipping can be thin, and agents working for Leviathan subsidiary Kraken Security are famous for being highly trained and well-armed.
