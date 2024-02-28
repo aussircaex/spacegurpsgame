@@ -1,0 +1,7 @@
+Many robots and computer systems in the Terran Sector are equipped with Virtual Intelligence (VI) software suites advanced enough to be engaged with as one would another human. The term emerged due to a need to distinguish these types of software from [[Artificial General Intelligence]], which refers to synthetic life-forms, also known as "true" AI, which is to say, they are sapient, living individuals.
+
+Virtual Intelligences are *not* living. They are merely highly advanced heuristic software systems that are capable of simulating human interaction (as an example, the character Data from *Star Trek: the Next Generation* would be an AGI, but the *Enterprise's* computer would be a VI, even though characters speak in full sentences to the computer and receive similar responses).
+
+A VI can be engaged in conversation just as you would a living human. It can hold a convincing conversation to the extent of its knowledge, though they do not initiate lines of conversation on their own initiative. A well-known feature of off-the-shelf VI software is to end most responses with "would you like to know more about (topic)".
+
+Naturally, this means that most people do not treat robots as living people, because they indeed are simply machines. The technology to create AGI has largely been lost since the destruction of the Terraformers. Individual cases of AGI emerging unexpectantly or by unique brilliant engineers have been reported, but have not been replicated reliably.

@@ -1,0 +1,3 @@
+The planet Tuatha is controlled by an assortment of nation-states, who act together as the Irish League for the purposes of diplomatic relations with other systems.
+
+The Kingdom of Leinster is one such nation-state, with a parliamentary monarchy government. Prince Seamus is one of the King's sons, and is somewhat notorious in the Terran sector for his wild playboy antics, hedonistic parties, and numerous Operating Under the Influence citations in various jurisdictions.
