@@ -1,0 +1,1 @@
+The Irish League is comprised of a federation of the nation-states of the Tuatha and New Ireland systems. The various nations retain their sovereignty, but act together on the galactic stage.

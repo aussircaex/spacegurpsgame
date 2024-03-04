@@ -1,0 +1,7 @@
+The Sengoku Systems comprise a trio of star systems - Meiji, Oda, and Tokugawa, that form a military alliance. Internally, the many kingdoms and nations of the many planets exist in a sort of Warring States period, similar to the Sengoku period of Japan, the Zhanguo period in China, or the Hundred Years' War in Europe.
+
+Despite their frequent internal conflicts, however, the governments of the Sengoku Systems cooperate on maintaining regional sovereignty. Starships of different factions cooperate to share law enforcement, patrol, and defensive duties in space. Even when fighting breaks out in space between warring states, they will pause their battles to engage pirates or other third-party troubles.
+
+It is for this reason that Sengoku politics are considered extremely difficult to understand. Diplomats will be at one another's throats, ready to draw weaponry at a moment's notice, and then suddenly shift into being the staunchest of allies when the topic switches to matters of dealing with outsiders. There have been several occasions where foreign powers attempted to attack while two Sengoku fleets were fighting. Sengoku warships engaged in the battle paused, immediately fought as allies to defeat the invaders, and then returned their ships to their prior positions to resume their battle where it left off.
+
+The Sengoku consider the ability to behave in this manner a mark of cultural pride.
