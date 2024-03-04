@@ -1,4 +1,4 @@
-The Infinite Suns are a large mercenary company headquartered on Schwartzchild Station, which sits at the nearest Lagrange point near a small stellar-mass black hole in sector 1009.
+The Infinite Suns are a large mercenary company headquartered on Schwarzschild Station, which sits at the nearest Lagrange point near a small stellar-mass black hole in sector 1009.
 
 They are well-regarded in the Terran Sector, particularly in the Intersystems region; a region with stars on its outer ring and "empty" space in the middle that is nevertheless high in population - the region is rich in space stations, asteroid mines, and (unterraformed) rogue planets with permanent settlements.
 
