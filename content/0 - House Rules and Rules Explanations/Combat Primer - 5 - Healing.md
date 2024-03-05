@@ -1,0 +1,11 @@
+- You can take one minute (usually after battle) to bandage an injured person. They get 1 HP back, no roll required.
+    - If you use Bandage Spray for bandaging, it works in five seconds.
+- You can then take more time to treat the injured person for shock and apply a more elaborate field dressing. At TL9+, as our game is, this requires having the right supplies (such as a first aid kit) and takes 10 minutes. Make a First Aid check. On a success, the patient heals another 1d HP.
+	- *note: technically, the patient heals another 1d+1, but it includes the 1 they healed for free with bandaging, so 1d*
+    - If you use Bandage Spray to assist with this portion of first aid, you get +2 to your roll
+    - *n.b. the abstraction here is that the injured person can be at "full health" again because that injury isn't going to threaten their life anymore.*
+- After a full day of rest (not just a good night's sleep), you can make an HT roll to regain 1 HP. You can perform light activity, but not your ordinary ship duties.
+    - If under the care of someone with Physician 12 or more (e.g. a nurse), you get +1 to this roll.
+- A medic/nurse/doctor can also spend their day treating patients (they can treat more than one), and make a Physician check to heal the patient 1 HP.
+    - They can make this check once per day. With limited medical equipment such as in your ship's med bay, they can make this check twice per day. In a state-of-the-art hospital, they can make this check three times per day.
+    - If you have access to a Regeneration Tank (you can get one installed in your med bay for $500,000), you can use it to heal. This always requires an outside operator - if they make a successful Physician check, you heal 1 HP every 12 hours, or 24 hours on a failure. It costs $125 to fuel the machine's nanobot-powered organic assembly procedures for one day.

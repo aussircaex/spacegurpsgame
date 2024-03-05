@@ -1,0 +1,11 @@
+- Any time you take damage, you suffer Shock. For your next turn, you take a penalty to all DX and IQ rolls equal to damage taken (max -4), _except_ for defense rolls.
+        - The "High Pain Threshold" advantage lets you ignore this penalty.  
+- If you're at <1/3 of your max HP, your Move and Dodge are halved (round up).\
+- If you take damage equal to half your max HP in one hit, make an HT roll. If you fail, you fall prone and are stunned; you can Do Nothing on your turn and defense rolls are at -4. At the end of your turn, you get another HT roll to recover from the stun.
+    - The "High Pain Threshold" advantage gives +3 on these rolls.
+- You can keep acting even if you're at 0 HP or lower. Make an HT roll at the start of each turn or fall unconscious. You can decide to Do Nothing to avoid the roll, but you cannot attempt to defend yourself on that turn.
+- When you reach -1xHP, make an immediate HT roll or die (if you fail by only 1 or 2, you are mortally wounded and can only be saved with emergency surgery). If you succeed, you're ok for the short term, but when you eventually lose consciousness, you will not awaken until you treated with surgery.
+    - The "Hard to Kill" advantage gives +1 per level to these rolls. If the advantage is what saves you (i.e. you have HtK 2 and HT 10 and get an 11), you drop and _appear_ dead, but recover as normal.
+    - If you reach -2x, -3x, or -4x HP, make the HT roll again to avoid immediately dying. Surgery to save you is more difficult, -2 at 3x and -4 at 4x.
+- If you reach -5xHP, you are dead.
+- If you somehow reach -10xHP, your body is totally destroyed. This can represent someone who dies in fire, or hit with an artillery shell, or being shot dozens of times.

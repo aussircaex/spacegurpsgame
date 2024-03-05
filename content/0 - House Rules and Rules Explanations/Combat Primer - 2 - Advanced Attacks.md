@@ -10,7 +10,7 @@ Now that you understand the basic process of a making an attack, let's add more 
 2. If you hit, the target can roll to defend.
 	1. They can Block once per round.
 		1. Shield is an Easy skill, so is cheap to get a good score in.
-		2. You cannot Block bullets, but wearing a shield provides a passive bonus to Dodge anyway
+		2. You cannot Block bullets, but wearing a shield provides a passive bonus to Dodge anyway.
 	2. They can Parry, but take -4 cumulative each additional time they try to Parry.
 		1. Parry uses your weapon skill, so it's efficient to level, but hard to use repeatedly.
 		2. You can't Parry bullets, but you CAN parry against a gunshot if they're within melee range, by knocking away the gun. Wearing a shield provides a passive bonus to all Parry rolls.
