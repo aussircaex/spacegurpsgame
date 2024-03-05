@@ -1,0 +1,4 @@
+- Jeeves can only recover HP if someone takes 30 minutes and makes a Mechanic check at -1 because of how expensive he is. Success heals him 1 HP plus your margin of success (so getting an 11 on a 12SL roll heals 2 HP.)
+	- Jeeves attempting repairs on himself in this way takes another -1 due to the poor angles.
+- If he's been reduced to 0 HP or lower, the check takes an extra -2, and it costs spare parts worth 1d6*$10,000. A successful check gets him to 1 HP.
+	- If he's been reduced to -1xHP, -2xHP, -3xHP, or -4xHP and not killed, the check heals him to the next threshold up.
