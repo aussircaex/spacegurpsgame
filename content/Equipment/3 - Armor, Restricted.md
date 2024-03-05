@@ -13,3 +13,6 @@ If you wish, please feel free to come up with a new company/brand name for your 
 	1. *Torso: DR 50; Rest of body: DR 30; $10,000; 3lbs; LC2*
 	2. The private security wing of Leviathan Interstellar is Kraken Security. Armed and armored with some of the best non-powered armor in the Terran Sector, they are immune to all but the heaviest of personal weaponry.
 	3. The Infinite Suns spare no expense on their agents' gear. Said to be manufactured on Schwarzschild Station itself, their Operative armor is powerful protection. 
+3. **Humanity-Class Powered Combat Armor**
+	1. *Torso: DR 70; Rest of body: DR 50; $90,000; 165lbs; LC1*
+	2. Developed in the later days of the occupation by the Universal Union and kept in development ever since, the *Humanity*-class Powered Combat Armor allows the wearer to essentially serve as a light vehicle, wielding weaponry far heavier than the wearer could normally handle.
