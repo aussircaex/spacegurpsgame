@@ -1,8 +1,9 @@
 - You can take one minute (usually after battle) to bandage an injured person. They get 1 HP back, no roll required.
     - If you use Bandage Spray for bandaging, it works in five seconds.
 - You can then take more time to treat the injured person for shock and apply a more elaborate field dressing. At TL9+, as our game is, this requires having the right supplies (such as a first aid kit) and takes 10 minutes. Make a First Aid check. On a success, the patient heals another 1d HP.
-	- *note: technically, the patient heals another 1d+1, but it includes the 1 they healed for free with bandaging, so 1d*
-    - If you use Bandage Spray to assist with this portion of first aid, you get +2 to your roll
+	- *n.b. technically, the patient heals another 1d+1, but it includes the 1 they healed for free with bandaging, so 1d*
+	- This is called "Treating Shock" on B424, but we'll also call it Field Dressing
+    - If you use Bandage Spray to assist with this portion of first aid, you get +2 to your roll.
     - *n.b. the abstraction here is that the injured person can be at "full health" again because that injury isn't going to threaten their life anymore.*
 - After a full day of rest (not just a good night's sleep), you can make an HT roll to regain 1 HP. You can perform light activity, but not your ordinary ship duties.
     - If under the care of someone with Physician 12 or more (e.g. a nurse), you get +1 to this roll.

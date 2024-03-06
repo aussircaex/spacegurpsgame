@@ -8,9 +8,9 @@ If you wish, please feel free to come up with a new company/brand name for your 
 1. **REFLEC-T "Jersey" Armored Shirt** (short- or long-sleeved T-shirts and hooded sweatshirt available!)
 	1. Short-sleeve T-shirt: *Torso; DR 8/4vs.crush; concealable as/under clothing; $75; 2lbs; LC4*
 	2. Long-sleeve T-shirt: *Arms; DR 8/4vs.crush; concealable as/under clothing; $110, +2lbs, LC4*
-	3. Hooded sweatshirt: *Skull, neck; DR 8/4vs.crush; concealable as/under clothing; $135, +4lbs, LC4 *
+	3. Hooded sweatshirt: *Skull, neck; DR 8/4vs.crush; concealable as/under clothing; $135, +4lbs, LC4
 	4. Ever popular among the fashion-conscious, REFLEC-T's customizable Jerseys are made of tightly-meshed chain mail with cotton sewn right in, allowing for protection from danger while wearing the logo of your favorite brand of soft drink, animated series, or sports team for all to see.
-2. **Barren Shores Armorers "Bulwark" Armor**. ("Breastplate", "Bodysuit", and flagship "Bulwark" models available).
+2. **Barren Shores Armorers "Bulwark" Armor** ("Breastplate", "Bodysuit", and flagship "Bulwark" models available).
 	1. "Breastplate": *Torso, Neck; DR 10; $300; 6lbs, LC4*
 	2. "Bodysuit": *Torso, Neck, Arms, Legs; DR 10; $750; 15lbs, LC4*
 	3. "Bulwark": *Full Body; DR 10; $900; 18lbs; LC4; includes helmet
