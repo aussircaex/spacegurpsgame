@@ -16,7 +16,7 @@ A list of approved items you can generally expect to be able to find for purchas
 	- One-use can of spray-on antiseptic bandages that also provide a topical analgesic. Available in flesh-tones, colors, and dinosaur patterns.
 	- If used for initial bandaging, it works in 5 seconds as opposed to the normal 1 minute.
 	- If used as part of a Field Dressing, provides +2 to First Aid (does not stack with your equipment bonus)
-- **Physician's Equipment, Medbay** (UT199, modified): \$100, 5lbs.
+- **Medical Supplies, Medbay** (UT199, modified): \$100, 5lbs.
 	- Drugs and other disposable supplies and tools for using the Physician skill.
 	- This is 1/5 the price of the "Medical Supplies (TL9)" item, but does not provide the +1 Quality bonus.
 - **Surgical Instruments, Medbay** (UT199): \$300, 15lbs.
