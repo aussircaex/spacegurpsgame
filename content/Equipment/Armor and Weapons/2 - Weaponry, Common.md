@@ -5,6 +5,7 @@ A list of weapons commonly found and available for purchase in the [[Terran Sect
 --Note--
 If you wish, please feel free to come up with a new company/brand name for your weapon. If you want to use a weapon not on this list and it is approved by the GM, come up with a brand name / model number for the weapon.
 #### **Pistols** (All LC3)
+**Important:** if you use a pistol in two hands, its STR requirement is 80% normal (round up), its Bulk is 1 less, and it has +1 to its Acc stat (benefitting from being "braced").
 See **B278** or **High-Tech** page 101 for stats
 1. Lewis Dalton Solutions Fundum, .45 ACP (2d pi+)
 	1. Based heavily on the designs of the company president's ancestors, the LDS Fundum is a powerful, if expensive magnum favored by those looking for sheer power over considerations like accuracy or ammo capacity.
