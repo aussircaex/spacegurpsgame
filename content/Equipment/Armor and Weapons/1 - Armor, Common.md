@@ -16,10 +16,17 @@ If you wish, please feel free to come up with a new company/brand name for your 
 	3. "Bulwark": *Full Body; DR 10; $900; 18lbs; LC4; includes helmet
 	4. With a large amount of raw iron available from asteroids in the Barren Shores region the company, Barren Shore Armorers, are able to manufacture reliable full-metal armors with modern metallurgy techniques at reasonable costs. The armors are made of quality steel, but are consistent with contemporary aesthetics popular with spacers. The armor is quite heavy, and so is popular among guards and mercenaries who can spend time training to use it effectively.
 3. **Kev-Max Armored Clothing**
-	1. Any regular article of clothing can be made with Kev-Max brand ballistic armoring weave, giving it the stats of Reflex armors (**HT172**) Also see **HT175** for more customization options. The following are common baseline options:
-	2. Jacket: *Arms, Torso; DR 12/4vs.crush; $450; 3lbs; LC3*
-	3. Vest: *Torso; DR 12/4vs.crush; $300; 2lbs; LC3*
-	4. Bodysuit: *Torso, Groin Legs, Arms; DR 12/4vs.crush; $900; 6lbs, LC3*
+	1. Any regular article of clothing can be made with Kev-Max brand ballistic armoring weave, giving it the stats of Reflex armors (**HT172**) Also see **HT175** for more customization options.
+	2. Normal-weight and lighter clothing passes as ordinary civilian attire unless designed otherwise.
+	3. The following are common baseline options:
+	4. Jacket: *Arms, Torso; DR 12vs.pierce,cut/4.; $450; 3lbs; LC3*
+	5. Vest: *Torso; DR 12vs.pierce,cut/4; $300; 2lbs; LC3*
+	6. Bodysuit: *Torso, Groin Legs, Arms; DR 12vs.pierce,cut/4; $900; 6lbs, LC3*
+4. **Kev-Max Protective Vest Attachment**
+	1. This vest seeks to provide similar results to Kev-Max's Professional Sentry Armor but without the same legal restrictions. As such, it is only designed to be worn over an existing piece of Kev-Max Armored Clothing and is inconvenient and impractical to wear on its own.
+	2. This item does not pass as civilian clothing.
+	3. *Torso; DR 6vs.pierce,cut/2; $150; 1lb; LC3
+	4. *n.b. as per the normal rules for Layering Armor, you add this armor's DR to the inner layer, and have -1 to DX and all DX skills while wearing this as an attachment*
 #### Headgear
 1. **REFLEC-T "Quasimodo" Helmet**
 	1. *Skull; DR 8; $100; 5lbs, LC4*
