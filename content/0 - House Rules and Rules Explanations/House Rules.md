@@ -1,4 +1,4 @@
-- In order to cover some of the necessary-but-infrequently-used skills for living in space, you may purchase a specially-house-ruled custom Talent advantage which we will call Starship Crew.
+1. In order to cover some of the necessary-but-infrequently-used skills for living in space, you may purchase a specially-house-ruled custom Talent advantage which we will call Starship Crew.
     
     - Cost: 3 points / level (max 4 levels) [not the usual 5/level]
         
@@ -11,5 +11,8 @@
     - You can still level the skills separately if you choose; this is just intended to be a cheap way to improve all of them (e.g. instead of buying your 4th rank of Computer Operation for 4 points, you could buy a rank of Starship Crew for 3 and improve all of them)
         
     - To add it to your sheet in GCS, add the Trait "Talent (@Small@) 1" to your sheet. Then double-click the talent _on_ your sheet. Edit the name to "Talent (Starship Crew)", edit the Cost Per Level to 3, change the name of the listed skills to the six listed above ("Spacer" for Crewman), and remove the "Gives a reaction modifier" feature.
-- You can assume you are protected by a Force Shield from all directions, not only front-and-shield-side. Thus, you can always add +3 to your Block, Parry, and Dodge rolls.
-- Anyone who is in the two-hex-wide line targeted by a Suppression Fire attack must make a Fright check. You don't get the +5 bonus for being "in the heat of battle" for this. This is to make up for the fact that as-written, Suppression Fire is so inaccurate it doesn't actually disincentivize anyone. We'll review this house rule to see if this becomes too disruptive.
+2. You can assume you are protected by a Force Shield from all directions, not only front-and-shield-side. Thus, you can always add +3 to your Block, Parry, and Dodge rolls.
+3. Anyone who is in the two-hex-wide line targeted by a Suppression Fire attack must make a Fright check. You don't get the +5 bonus for being "in the heat of battle" for this. This is to make up for the fact that as-written, Suppression Fire is so inaccurate it doesn't actually disincentivize anyone. We'll review this house rule to see if this becomes too disruptive.
+4. TL0-3 metal armors are made with higher quality materials and techniques. Improving on the "High-Tech Low-Tech" rule on HT65, such armors are either:
+	1. Double the DR, half the weight (round up) and cost
+	2. The same DR, 1/4 the weight (round up) and cost

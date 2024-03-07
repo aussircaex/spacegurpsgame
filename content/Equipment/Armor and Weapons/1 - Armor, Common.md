@@ -6,9 +6,9 @@ A list of armors commonly found and available for purchase in the [[Terran Secto
 If you wish, please feel free to come up with a new company/brand name for your armor. If you want to use a weapon not on this list and it is approved by the GM, come up with a brand name / model number for the weapon.
 #### Armor
 1. **REFLEC-T "Jersey" Armored Shirt** (short- or long-sleeved T-shirts and hooded sweatshirt available!)
-	1. Short-sleeve T-shirt: *Torso; DR 8/4vs.crush; concealable as/under clothing; $75; 2lbs; LC4*
-	2. Long-sleeve T-shirt: *Arms; DR 8/4vs.crush; concealable as/under clothing; $110, +2lbs, LC4*
-	3. Hooded sweatshirt: *Skull, neck; DR 8/4vs.crush; concealable as/under clothing; $135, +4lbs, LC4
+	1. Short-sleeve T-shirt: *Torso; DR 8/6vs.crush; concealable as/under clothing; $75; 2lbs; LC4*
+	2. Long-sleeve T-shirt: *+Arms; DR 8/6vs.crush; concealable as/under clothing; $110, +2lbs, LC4*
+	3. Hooded sweatshirt: *+Skull, neck; DR 8/6vs.crush; concealable as/under clothing; $135, +4lbs, LC4
 	4. Ever popular among the fashion-conscious, REFLEC-T's customizable Jerseys are made of tightly-meshed chain mail with cotton sewn right in, allowing for protection from danger while wearing the logo of your favorite brand of soft drink, animated series, or sports team for all to see.
 2. **Barren Shores Armorers "Bulwark" Armor** ("Breastplate", "Bodysuit", and flagship "Bulwark" models available).
 	1. "Breastplate": *Torso, Neck; DR 10; $300; 6lbs, LC4*
@@ -19,8 +19,8 @@ If you wish, please feel free to come up with a new company/brand name for your 
 	1. Any regular article of clothing can be made with Kev-Max brand ballistic armoring weave, giving it the stats of Reflex armors (**HT172**) Also see **HT175** for more customization options.
 	2. Normal-weight and lighter clothing passes as ordinary civilian attire unless designed otherwise.
 	3. The following are common baseline options:
-	4. Jacket: *Arms, Torso; DR 12vs.pierce,cut/4.; $450; 3lbs; LC3*
-	5. Vest: *Torso; DR 12vs.pierce,cut/4; $300; 2lbs; LC3*
+	4. Vest: *Torso; DR 12vs.pierce,cut/4; $300; 2lbs; LC3*
+	5. Jacket: *Arms, Torso; DR 12vs.pierce,cut/4.; $450; 3lbs; LC3*
 	6. Bodysuit: *Torso, Groin Legs, Arms; DR 12vs.pierce,cut/4; $900; 6lbs, LC3*
 4. **Kev-Max Protective Vest Attachment**
 	1. This vest seeks to provide similar results to Kev-Max's Professional Sentry Armor but without the same legal restrictions. As such, it is only designed to be worn over an existing piece of Kev-Max Armored Clothing and is inconvenient and impractical to wear on its own.

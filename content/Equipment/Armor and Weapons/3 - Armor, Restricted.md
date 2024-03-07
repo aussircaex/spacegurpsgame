@@ -12,7 +12,7 @@ If you wish, please feel free to come up with a new company/brand name for your 
 	4. Kev-Max's proprietary suit of armor sold to security companies and certain mercenary groups. Most of the outfit is made with the same ballistic weave that is used to make discreet armored clothing, but this outfit, while fairly casual-looking in appearance, is unmistakable as armor. This armor is commonly worn by station security forces, law enforcement, and professional security servicepeople. It features Kev-Max ballistic weave on the limbs, a Light Clamshell cuirass over the torso, and an Infantry Combat Helmet with a visor.
 3. **Kraken Security Agent Armor / Infinite Suns Operative Armor** 
 	1. [[CombatHardsuit1.jpeg]][[CombatHardsuit2.jpeg]]
-	2. *Torso: DR 50; Rest of body: DR 30; $10,000; 3lbs; LC2*
+	2. *Torso: DR 50; Rest of body: DR 30; $10,000; 30lbs; LC2*
 	3. The private security wing of Leviathan Interstellar is Kraken Security. Armed and armored with some of the best non-powered armor in the Terran Sector, they are immune to all but the heaviest of personal weaponry.
 	4. The Infinite Suns spare no expense on their agents' gear. Said to be manufactured on Schwarzschild Station itself, their Operative armor is powerful protection. 
 4. **Humanity-Class Powered Combat Armor**[
