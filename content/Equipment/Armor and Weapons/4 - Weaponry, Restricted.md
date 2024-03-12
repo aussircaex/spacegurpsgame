@@ -3,7 +3,7 @@ See also: [[Personal Weaponry]]
 A list of armors sometimes seen in the [[Terran Sector]], but not widely available for purchase due to being LC2 or LC1. If you somehow find smugglers or arms dealers willing to sell you LC2 weapons, they cost twice as much as listed here.
 
 --Note--
-If you wish, please feel free to come up with a new company/brand name for your weapon. If you want to use a weapon not on this list and it is approved by the GM, come up with a brand name / model number for the weapon.
+If you wish, please feel free to come up with a new company/brand name for your weapon. If you want to use a piece of armor not on this list and it is approved by the GM, come up with a brand name / model number for the item.
 
 #### Rifles
 See **B279** or **High-Tech** page 101 for stats

@@ -3,7 +3,7 @@ See also: [[Personal Defenses]]
 A list of armors commonly found and available for purchase in the [[Terran Sector]] due to being broadly LC4 or LC3. Note that you must acquire a Defensive Equipment license in the legal jurisdiction you wish to make your purchase in before you can buy LC3 weapons.
 
 --Note--
-If you wish, please feel free to come up with a new company/brand name for your armor. If you want to use a weapon not on this list and it is approved by the GM, come up with a brand name / model number for the weapon.
+If you wish, please feel free to come up with a new company/brand name for your armor. If you want to use a piece of armor not on this list and it is approved by the GM, come up with a brand name / model number for the item.
 #### Armor
 1. **REFLEC-T "Jersey" Armored Shirt** (short- or long-sleeved T-shirts and hooded sweatshirt available!)
 	1. Short-sleeve T-shirt: *Torso; DR 8/6vs.crush; concealable as/under clothing; $75; 2lbs; LC4*
