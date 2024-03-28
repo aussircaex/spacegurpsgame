@@ -1,0 +1,12 @@
+Our game's setting is a mix levels. The intent is to have a space opera game while keeping the complexity of the math simple - especially since weapons start getting really weird at high TLs.
+
+For the purpose of **Personal Weaponry**, treat the TL at 8 - as the Basic Set was published in 2004, this was intended as contemporary technology, but as time has passed and supplements have been published (High-Tech in 2007, Tactical Shooting in 2011), a few things written as being TL9 (imagined as being the then-future of 2025 onward) - per the Basic Set, a TL8 laptop features a modem that plugs into your phone line! But for guns, TL8 works for us. Please use **High-Tech** or **Tactical Shooting** to browse weaponry.
+	Example: H&K USP .40 S&W pistol (HT101), but NOT the Hunting Rifle 7mmCL (UT137)
+	Note: some higher-TL weaponry *exists*, but is so expensive to deploy that most standing militaries use TL8 weaponry. A typical well-funded military would equip equip its GIs with powered armor that allows them to wield a normally-mounted Browning machine gun or other heavy weaponry that otherwise requires vehicle mounts.
+
+For the purposes of **Armor and Personal Defenses**, treat the TL as 9. The reason for this choice is because the armor options available don't change after TL9; they just scale up in DR. So combined with the choice to keep guns at TL8, this seems a good balance. You can design a suit of armor for yourself using **Ultra-Tech**, or, if it suits your needs, you can choose metal armor pieces from the **Basic Set**'s Low-tech armor table (B283-284) and automatically double the DR *and* halve the weight and cost, or alternately simply reduce the weight and cost to 1/4. A simple metal plate isn't as effective as modern anti-ballistics like Kevlar (or the space-future equivalents), but it's much cheaper and easily accessible.
+
+For the purposes of **General Technology on a Societal Level**, treat the TL as 10. So there's the technology for Regeneration Tanks (TL10); basically like Bacta Tanks from Star Wars, but not matter replicators or transporters like on Star Trek.
+	Note: this affects the miniaturization of computers. This means that a $1000 desktop computer is Complexity 7 in our setting.
+
+For the purposes of **Space Flight**, treat the TL as 11. Humanity learned a lot of space flight science from the Universal Union above and beyond the rest of its scientific knowledge. This mostly affects the stats of various spaceship components, including the complexity of computer systems installed aboard.
