@@ -9,4 +9,4 @@ For the purposes of **Armor and Personal Defenses**, treat the TL as 9. The reas
 For the purposes of **General Technology on a Societal Level**, treat the TL as 10. So there's the technology for Regeneration Tanks (TL10); basically like Bacta Tanks from Star Wars, but not matter replicators or transporters like on Star Trek.
 	Note: this affects the miniaturization of computers. This means that a $1000 desktop computer is Complexity 7 in our setting.
 
-For the purposes of **Space Flight**, treat the TL as 11. Humanity learned a lot of space flight science from the Universal Union above and beyond the rest of its scientific knowledge. This mostly affects the stats of various spaceship components, including the complexity of computer systems installed aboard.
+For the purposes of **Space Flight** and **Computing Power**, treat the TL as 11. Humanity learned a lot of space flight science from the Universal Union above and beyond the rest of its scientific knowledge. This mostly affects the stats of various spaceship components, including the complexity of computer systems installed aboard.
