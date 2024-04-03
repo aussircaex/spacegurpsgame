@@ -3,16 +3,16 @@ No two pirate ships are the same, but they tend to be retrofitted to certain sta
 Most Bandits have no life support systems, requiring their pilots to wear vacuum suits while operating them.
 
 Cost: $2,323,000
-dST/HP: 15
-Hnd/SR: 0/4
-HT: 12
-Move: 150G/450mps (3 hexes, 30 hexes) (5G, 100mps top speed with Travel Drive)
-LWt.: 10 tons
-Load: 0.5 ton (cargo bay)
-SM: +4
-Occupancy: 1
-dDR: 15/10/10 (Nanocomposite Armor)
-Range: Local
+  dST/HP: 15
+  Hnd/SR: 0/4
+  HT: 12
+  Move: 150G/450mps (3 hexes, 30 hexes) (5G, 100mps top speed with Travel Drive)
+  LWt.: 10 tons
+  Load: 0.5 ton (cargo bay)
+  SM: +4
+  Occupancy: 1
+  dDR: 15/10/10 (Nanocomposite Armor)
+  Range: Local
 
 Armament:
 Front/Side: Yx weapons (ammo) (sAcc, Range X/Y, AdxB damage)
