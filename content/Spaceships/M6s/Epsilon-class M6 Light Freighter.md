@@ -1,16 +1,16 @@
 These small but reliable freighter ships were developed by Leviathan Shipping engineers. Intended as versatile ships without any specific role, they have accommodations for some passengers, some cargo space, and an external clamp, allowing them to haul trailers. They are a common first command for newly-minted captains under contract for Leviathan. Fitted with light armor and a shield system and defended by ballistic turrets for protection, they are unlikely to stand up long against attack, but can at least fire back in self-defense.
 
 Cost: $6,880,000
-dST/HP: 30
-Hnd/SR: 0/4
-HT: 12
-Move: 1.5G/45mps (5G, 100mps top speed with Travel Drive)
-LWt.: 100 tons
-Load: 16 (10 tons cargo, 6 tons steerage from unfilled turrets)
-SM: +6
-Occupancy: 10
-dDR: Shield 80 (restore 20/turn, 40 with extra PP), then 1/1/1 (Steel Armor)
-Range: FTL
+- dST/HP: 30
+- Hnd/SR: 0/4
+- HT: 12
+- Move: 1.5G/45mps (5G, 100mps top speed with Travel Drive)
+- LWt.: 100 tons
+- Load: 16 (10 tons cargo, 6 tons steerage from unfilled turrets)
+- SM: +6
+- Occupancy: 10
+- dDR: Shield 80 (restore 20/turn, 40 with extra PP), then 1/1/1 (Steel Armor)
+- Range: FTL
 
 Armament:
 All: 2x Quad 8cm Gauss cannons (50 shots each) - (sAcc -7, Range 0/1, 6dx2 damage)
