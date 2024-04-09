@@ -33,7 +33,7 @@ m
 6. (!)Secondary Battery - Quad 10MJ Blaster Cannon, 9 tons cargo - $600K
 7. (!)Force Shield - $5,000K
 b
-1. Reactor, Matter/Antimatter - $6,000K
+1. Reactor, Matter/Antimatter (4PP) - $6,000K
 2. Armor, Nanocomposite - $1,500
 3. (!)FTL Engine - $3,000K
 4. SL Engine - Super Fusion Torch, 50G, 450mps/tank - $3,000K
