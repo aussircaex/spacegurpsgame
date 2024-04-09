@@ -1,3 +1,4 @@
+[[leviathan.jpg]]
 
 The iconic vessel and the zenith of [[Leviathan Interstellar]] engineering, Leviathans are among the most massive starships ever built by humanity. After the Great Conflagration, representatives of many worlds gathered, and decided to ensure that humanity would survive, even if every planet it inhabited were destroyed. The Leviathan is the result: a veritable city in space, able to support millions of inhabitants permanently. Modeled after the first colony ships sent from Earth to settle newly-terraformed worlds, the ships are roughly cylindrical, and measure nearly three miles long.
 
