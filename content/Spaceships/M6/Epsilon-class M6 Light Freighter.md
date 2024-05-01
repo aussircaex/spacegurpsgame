@@ -23,14 +23,14 @@ F
 5. Habitat - Crew/Passenger Cabin (2) - $100K
 6. Habitat - Bunkroom (4) - $100K
 7. Habitat - Kitchen, common area - $100K
-m
+M
 1. Armor, Steel - $20K
 3. Secondary cannon (4/10) - 8cm Gauss cannons, 50 shots, 6 tons cargo - $240K
 4. Secondary cannon (4/10) - 8cm Gauss cannons, 50 shots, 6 tons cargo - $240K
 5. Cargo Bay - 5 tons
 6. Cargo Bay - 5 tons
 7. Habitat - Medical Bay - $100K
-b
+B
 1. (core) Fusion Reactor - 2 PP - $1000K
 2. Armor, Steel - $20K
 3. (!) Force Screen - 80HP, recovers 20/turn, 40/turn if provided 2 PP - $1500K
