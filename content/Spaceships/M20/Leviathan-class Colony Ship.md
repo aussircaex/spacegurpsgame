@@ -37,7 +37,7 @@ F
 M
 <ol>
 <li>2x Cargo Bay - 100M tons (refrigeration available) - $50B</li>
-<li>(!) Factory - VI-assisted robofactory. Requires 40% cost in raw materials. Production capacity: $100B/hr. 100K workspaces - $100T</li>
+<li>(!) Factory - VI-assisted robofactory. Requires 40% cost in raw materials. Production capacity: \$100B/hr. 100K workspaces - \$100T</li>
 <li>Hangar: 30M tons docking capacity. 1M tons/min launch/retrieve capability. 100K workspaces - $100B</li>
 <li>(!) Tertiary Battery: 30x 10TJ Turbolasers. 100K workspaces - $6T</li>
 <li>(!) Tertiary Battery (9x SM+18 modules): 270x 10GJ VRF Turbolasers. 100K workspaces - $6T</li>
