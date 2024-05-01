@@ -15,22 +15,22 @@ Cost: $6,880,000
 Armament:
 All: 2x Quad 8cm Gauss cannons (50 shots each) - (sAcc -7, Range 0/1, 6dx2 damage)
 
-###### F
+F
 1. (core) Cockpit - $200k
 2. Armor, Steel - $20K
 3. Habitat - Captain's Cabin (2) - $100K
 4. Habitat - Mate's Cabin (2) - $100K
 5. Habitat - Crew/Passenger Cabin (2) - $100K
 6. Habitat - Bunkroom (4) - $100K
-7. Habitat - Kitchen, common area - $100K
-###### M
-1. Armor, Steel - $20K
-2. Secondary cannon (4/10) - 8cm Gauss cannons, 50 shots, 6 tons cargo - $240K
-3. Secondary cannon (4/10) - 8cm Gauss cannons, 50 shots, 6 tons cargo - $240K
-4. Cargo Bay - 5 tons
-5. Cargo Bay - 5 tons
-6. Habitat - Medical Bay - $100K
-###### B
+7. Habitat - Kitchen, common area - $100K<br>
+M
+9. Armor, Steel - $20K
+10. Secondary cannon (4/10) - 8cm Gauss cannons, 50 shots, 6 tons cargo - $240K
+11. Secondary cannon (4/10) - 8cm Gauss cannons, 50 shots, 6 tons cargo - $240K
+12. Cargo Bay - 5 tons
+13. Cargo Bay - 5 tons
+14. Habitat - Medical Bay - $100K<br>
+B
 1. (core) Fusion Reactor - 2 PP - $1000K
 2. Armor, Steel - $20K
 3. (!) Force Screen - 80HP, recovers 20/turn, 40/turn if provided 2 PP - $1500K
