@@ -16,25 +16,31 @@ Armament:
 All: 2x Quad 8cm Gauss cannons (50 shots each) - (sAcc -7, Range 0/1, 6dx2 damage)
 
 F
-1. (core) Cockpit - $200k
-2. Armor, Steel - $20K
-3. Habitat - Captain's Cabin (2) - $100K
-4. Habitat - Mate's Cabin (2) - $100K
-5. Habitat - Crew/Passenger Cabin (2) - $100K
-6. Habitat - Bunkroom (4) - $100K
-7. Habitat - Kitchen, common area - $100K<br>
+<ol>
+<li>(core) Cockpit - $200k</li>
+<li>Armor, Steel - $20K</li>
+<li>Habitat - Captain's Cabin (2) - $100K</li>
+<li>Habitat - Mate's Cabin (2) - $100K</li>
+<li>Habitat - Crew/Passenger Cabin (2) - $100K</li>
+<li>Habitat - Bunkroom (4) - $100K</li>
+<li>Habitat - Kitchen, common area - $100K</li>
+</ol>
 M
-9. Armor, Steel - $20K
-10. Secondary cannon (4/10) - 8cm Gauss cannons, 50 shots, 6 tons cargo - $240K
-11. Secondary cannon (4/10) - 8cm Gauss cannons, 50 shots, 6 tons cargo - $240K
-12. Cargo Bay - 5 tons
-13. Cargo Bay - 5 tons
-14. Habitat - Medical Bay - $100K<br>
+<ol>
+<li>Armor, Steel - $20K</li>
+<li>Secondary cannon (4/10) - 8cm Gauss cannons, 50 shots, 6 tons cargo - $240K</li>
+<li>Secondary cannon (4/10) - 8cm Gauss cannons, 50 shots, 6 tons cargo - $240K</li>
+<li>Cargo Bay - 5 tons</li>
+<li>Cargo Bay - 5 tons</li>
+<li>Habitat - Medical Bay - $100K</li>
+</ol>
 B
-1. (core) Fusion Reactor - 2 PP - $1000K
-2. Armor, Steel - $20K
-3. (!) Force Screen - 80HP, recovers 20/turn, 40/turn if provided 2 PP - $1500K
-4. External Clamp - $10K
-5. Fuel Tank - water fuel (\$20/ton) - 5 tons - $30K
-6. Fusion Torch sub-light engine - 1.5G (0hx), 45Δv (3hx) - water-fueled - $2000K
-7. (!) Stardrive Engine - FTL 1 (1ly/day), 5 days' fuel (\$500/day) - $1000K
+<ol>
+<li>(core) Fusion Reactor - 2 PP - $1000K</li>
+<li>Armor, Steel - $20K</li>
+<li>(!) Force Screen - 80HP, recovers 20/turn, 40/turn if provided 2 PP - $1500K</li>
+<li>External Clamp - $10K</li>
+<li>Fuel Tank - water fuel (\$20/ton) - 5 tons - $30K</li>
+<li>Fusion Torch sub-light engine - 1.5G (0hx), 45Δv (3hx) - water-fueled - $2000K</li>
+<li>(!) Stardrive Engine - FTL 1 (1ly/day), 5 days' fuel (\$500/day) - $1000K</li>
+</ol>
