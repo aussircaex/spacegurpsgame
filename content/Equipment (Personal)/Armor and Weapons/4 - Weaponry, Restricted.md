@@ -1,8 +1,5 @@
 See also: [[Personal Weaponry]]
 
-```toc
-```
-
 A list of armors sometimes seen in the [[Terran Sector]], but not widely available for purchase due to being LC2 or LC1. If you somehow find smugglers or arms dealers willing to sell you LC2 weapons, they cost twice as much as listed here.
 
 --Note--
