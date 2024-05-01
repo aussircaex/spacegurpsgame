@@ -35,6 +35,6 @@ All: 2x Quad 8cm Gauss cannons (50 shots each) - (sAcc -7, Range 0/1, 6dx2 damag
 2. Armor, Steel - $20K
 3. (!) Force Screen - 80HP, recovers 20/turn, 40/turn if provided 2 PP - $1500K
 4. External Clamp - $10K
-5. Fuel Tank - water fuel ($20/ton) - 5 tons - $30K
+5. Fuel Tank - water fuel (\$20/ton) - 5 tons - $30K
 6. Fusion Torch sub-light engine - 1.5G (0hx), 45Δv (3hx) - water-fueled - $2000K
-7. (!) Stardrive Engine - FTL 1 (1ly/day), 5 days' fuel ($500/day) - $1000K
+7. (!) Stardrive Engine - FTL 1 (1ly/day), 5 days' fuel (\$500/day) - $1000K
