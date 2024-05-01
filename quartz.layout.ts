@@ -31,6 +31,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
 	Component.TableOfContents(),
     Component.Backlinks(),
+	Component.Explorer(),
   ],
 }
 
