@@ -9,7 +9,7 @@ Cost: $6,880,000
 - Load: 16 (10 tons cargo, 6 tons steerage from unfilled turrets)
 - SM: +6
 - Occupancy: 10
-- dDR: Shield 80 (restore 20/turn, 40 with extra PP), then 1/1/1 (Steel Armor)
+- dDR: Shield 120 (restore 30/turn, 60 with extra PP), then 1/1/1 (Steel Armor)
 - Range: FTL
 
 Armament:
