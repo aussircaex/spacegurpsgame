@@ -26,23 +26,28 @@ All:
 2. 270x 10GJ VRF Turbolasers (range 3/10, 4dx10 burn, RoF 300 each)
 
 F
-1. (core) Control Room - CX 15 computer, comm/sensor lvl 20, 400 control stations, 100k workspaces - $2T
-2. 2x Habitat - 1M luxury cabins, 4M cabins, 2.25M bunkrooms; 3.75M assorted offices, establishments, hospitals, laboratories, etc, as befitting a city in space - $2T
-3. 2x "Open Space" - 10,000 "spaces" of advanced agricultural production; feeds entire population. 10,000 "spaces" of assorted amenities - pools, theaters, auditoriums, stadium, zoo, etc. - $2B
-4. Cargo Bay - 50M tons (refrigeration available) - $25B
-5. (!!) Heavy Shield - (7000 dDR stat, x4 for ablative house rule) - 28,000 HP, restore 7,000 per turn. Provide second PP to take half damage. Double PP to restore 14,000 per turn (must make same power choices for all shields) - $50T
+<ol>
+<li>1. (core) Control Room - CX 15 computer, comm/sensor lvl 20, 400 control stations, 100k workspaces - $2T</li>
+<li>2x Habitat - 1M luxury cabins, 4M cabins, 2.25M bunkrooms; 3.75M assorted offices, establishments, hospitals, laboratories, etc, as befitting a city in space - $2T</li>
+<li>2x "Open Space" - 10,000 "spaces" of advanced agricultural production; feeds entire population. 10,000 "spaces" of assorted amenities - pools, theaters, auditoriums, stadium, zoo, etc. - $2B</li>
+<li>Cargo Bay - 50M tons (refrigeration available) - $25B</li>
+<li>(!!) Heavy Shield - (7000 dDR stat, x4 for ablative house rule) - 28,000 HP, restore 7,000 per turn. Provide second PP to take half damage. Double PP to restore 14,000 per turn (must make same power choices for all shields) - $50T</li>
+</ol>
 
 M
-1. 2x Cargo Bay - 100M tons (refrigeration available) - $50B
-2. (!) Factory - VI-assisted robofactory. Requires 40% cost in raw materials. Production capacity: $100B/hr. 100K workspaces - $100T
-3. Hangar: 30M tons docking capacity. 1M tons/min launch/retrieve capability. 100K workspaces - $100B
-4. (!) Tertiary Battery: 30x 10TJ Turbolasers. 100K workspaces - $6T
-5. (!) Tertiary Battery (9x SM+18 modules): 270x 10GJ VRF Turbolasers. 100K workspaces - $6T
-
+<ol>
+<li>2x Cargo Bay - 100M tons (refrigeration available) - $50B</li>
+<li>(!) Factory - VI-assisted robofactory. Requires 40% cost in raw materials. Production capacity: $100B/hr. 100K workspaces - $100T</li>
+<li>Hangar: 30M tons docking capacity. 1M tons/min launch/retrieve capability. 100K workspaces - $100B</li>
+<li>(!) Tertiary Battery: 30x 10TJ Turbolasers. 100K workspaces - $6T</li>
+<li>(!) Tertiary Battery (9x SM+18 modules): 270x 10GJ VRF Turbolasers. 100K workspaces - $6T</li>
+</ol>
 B
-1. (core) Fuel Tank - 50M tons antimatter fuel - $300B
-2. (!) FTL Engine - Travel Drive. 100k workspaces - $10T
-3. Sub-light Engine - Antimatter Pion Engine. 0.005G, 3,400 delta-v per tank. 100K workspaces - $10T
-4. 2x Super Fusion Reactor - 8PP, 400 years endurance, 200k workspaces - $60T
-5. Cargo Bay - 50M tons (refrigeration available) - $25B
-6. (!!) Heavy Shield - (7000 dDR stat, x4 for ablative house rule) - 28,000 HP, restore 7,000 per turn. Provide second PP to take half damage. Double PP to restore 14,000 per turn (must make same power choices for all shields) - $50T
+<ol>
+<li>(core) Fuel Tank - 50M tons antimatter fuel - $300B</li>
+<li>(!) FTL Engine - Travel Drive. 100k workspaces - $10T</li>
+<li>Sub-light Engine - Antimatter Pion Engine. 0.005G, 3,400 delta-v per tank. 100K workspaces - $10T</li>
+<li>2x Super Fusion Reactor - 8PP, 400 years endurance, 200k workspaces - $60T</li>
+<li>Cargo Bay - 50M tons (refrigeration available) - $25B</li>
+<li>(!!) Heavy Shield - (7000 dDR stat, x4 for ablative house rule) - 28,000 HP, restore 7,000 per turn. Provide second PP to take half damage. Double PP to restore 14,000 per turn (must make same power choices for all shields) - $50T</li>
+</ol>

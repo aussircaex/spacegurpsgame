@@ -17,25 +17,31 @@ Front: 1x Fixed 100MJ Blaster Cannon (range 2/5, 2dx5 damage)
 All: 2x Quad 10MJ Blaster Cannon (range 1/2, 4d damage)
 
 F
-1. (core) Cockpit - $600k
-2. (!) Main Battery - Fixed 100mj Blaster Cannon - $1,500K
-3. Armor, Nanocomposite - $1,500
-4. Hangar (10 tons) - $30k
-5. Hangar (10 tons) - $30k
-6. Habitat - Captain's cabin, Bunkroom - $300K
-7. Habitat - 2x Bunkroom - $300K
-m
-1. (core) Fuel Tank - $100K
-2. Armor, Nanocomposite - $1,500K
-3. Hangar 10t - $30k
-4. Hangar 10t - $30k
-5. (!)Secondary Battery - Quad 10MJ Blaster Cannon, 9 tons cargo - $600K
-6. (!)Secondary Battery - Quad 10MJ Blaster Cannon, 9 tons cargo - $600K
-7. (!)Force Shield - $5,000K
-b
-1. Reactor, Matter/Antimatter (4PP) - $6,000K
-2. Armor, Nanocomposite - $1,500
-3. (!)FTL Engine - $3,000K
-4. SL Engine - Super Fusion Torch, 50G, 450mps/tank - $3,000K
-5. Cargo Bay - 15 tons - $0
-6. Cargo Bay - 15 tons - $0
+<ol>
+<li>(core) Cockpit - $600k</li>
+<li>(!) Main Battery - Fixed 100mj Blaster Cannon - $1,500K</li>
+<li>Armor, Nanocomposite - $1,500</li>
+<li>Hangar (10 tons) - $30k</li>
+<li>Hangar (10 tons) - $30k</li>
+<li>Habitat - Captain's cabin, Bunkroom - $300K</li>
+<li>Habitat - 2x Bunkroom - $300K</li>
+</ol>
+M
+<ol>
+<li>(core) Fuel Tank - $100K</li>
+<li>Armor, Nanocomposite - $1,500K</li>
+<li>Hangar 10t - $30k</li>
+<li>Hangar 10t - $30k</li>
+<li>(!)Secondary Battery - Quad 10MJ Blaster Cannon, 9 tons cargo - $600K</li>
+<li>(!)Secondary Battery - Quad 10MJ Blaster Cannon, 9 tons cargo - $600K</li>
+<li>(!)Force Shield - $5,000K</li>
+</ol>
+B
+<ol>
+<li>Reactor, Matter/Antimatter (4PP) - $6,000K</li>
+<li>Armor, Nanocomposite - $1,500</li>
+<li>(!)FTL Engine - $3,000K</li>
+<li>SL Engine - Super Fusion Torch, 50G, 450mps/tank - $3,000K</li>
+<li>Cargo Bay - 15 tons - $0</li>
+<li>Cargo Bay - 15 tons - $0</li>
+</ol>

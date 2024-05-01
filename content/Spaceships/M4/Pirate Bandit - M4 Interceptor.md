@@ -16,30 +16,33 @@ Cost: $2,323,000
 
 Armament:
 Front/Side: Yx weapons (ammo) (sAcc, Range X/Y, AdxB damage)
-All: 
 
 F
-1. (core) Control Room (C7 computer, comm/sensor 4, 1 control station) - $20K
-2. (!) Major Battery - 3MJ Blaster Cannon - $100K
-3. (!) Major Battery - 3MJ Blaster Cannon - $100K
-4. Tactical Array (comm/sensor 6) - $100K
-5. Armor, Nanocomposite - $50K
-6. Armor, Nanocomposite - $50K
-7. Armor, Nanocomposite - $50K
-
+<ol>
+<li>(core) Control Room (C7 computer, comm/sensor 4, 1 control station) - $20K</li>
+<li>(!) Major Battery - 3MJ Blaster Cannon - $100K</li>
+<li>(!) Major Battery - 3MJ Blaster Cannon - $100K</li>
+<li>Tactical Array (comm/sensor 6) - $100K</li>
+<li>Armor, Nanocomposite - $50K</li>
+<li>Armor, Nanocomposite - $50K</li>
+<li>Armor, Nanocomposite - $50K</li>
+</ol>
 M
-1. Defensive ECM - $100K
-2. Defensive ECM - $100K
-3. Matter-Antimatter Reactor (3PP) - $150K
-4. Matter-Antimatter Reactor (2PP) - $100K
-5. Armor, Nanocomposite - $50K
-6. Armor, Nanocomposite - $50K
-7. (core) Fuel Tank (0.5 tons hydrogen, 450mps delta-v) - $3K
-
+<ol>
+<li>Defensive ECM - $100K</li>
+<li>Defensive ECM - $100K</li>
+<li>Matter-Antimatter Reactor (3PP) - $150K</li>
+<li>Matter-Antimatter Reactor (2PP) - $100K</li>
+<li>Armor, Nanocomposite - $50K</li>
+<li>Armor, Nanocomposite - $50K</li>
+<li>(core) Fuel Tank (0.5 tons hydrogen, 450mps delta-v) - $3K</li>
+</ol>
 B
-1. Armor, Nanocomposite - $50K
-2. Armor, Nanocomposite - $50K
-3. (!) Super Fusion Torch Engine (50G) - $400K
-4. (!) Super Fusion Torch Engine (50G) - $400K
-5. (!) Super Fusion Torch Engine (50G) - $400K
-6. Cargo Hold (0.5 tons)
+<ol>
+<li>Armor, Nanocomposite - $50K</li>
+<li>Armor, Nanocomposite - $50K</li>
+<li>(!) Super Fusion Torch Engine (50G) - $400K</li>
+<li>(!) Super Fusion Torch Engine (50G) - $400K</li>
+<li>(!) Super Fusion Torch Engine (50G) - $400K</li>
+<li>Cargo Hold (0.5 tons)</li>
+</ol>
