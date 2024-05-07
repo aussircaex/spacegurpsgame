@@ -27,7 +27,7 @@ All:
 
 F
 <ol>
-<li>1. (core) Control Room - CX 15 computer, comm/sensor lvl 20, 400 control stations, 100k workspaces - $2T</li>
+<li>(core) Control Room - CX 15 computer, comm/sensor lvl 20, 400 control stations, 100k workspaces - $2T</li>
 <li>2x Habitat - 1M luxury cabins, 4M cabins, 2.25M bunkrooms; 3.75M assorted offices, establishments, hospitals, laboratories, etc, as befitting a city in space - $2T</li>
 <li>2x "Open Space" - 10,000 "spaces" of advanced agricultural production; feeds entire population. 10,000 "spaces" of assorted amenities - pools, theaters, auditoriums, stadium, zoo, etc. - $2B</li>
 <li>Cargo Bay - 50M tons (refrigeration available) - $25B</li>
