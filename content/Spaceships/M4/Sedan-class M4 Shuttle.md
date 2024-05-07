@@ -1,7 +1,7 @@
 
 The *Sedan* is a simple shuttle for in-system transport, usually between very large ships where docking would be impractical. The standard design features space for a pilot and 7 passengers. The one aboard the *Shower Comeback* is fitted with a cloaking device in place of one of its passenger seats, and so it sits only 7 total.
 
-Cost: $116,000 ($413,000 with cloak)
+Cost: \$116,000 (\$413,000 with cloak)
 - dST/HP: 15
 - Hnd/SR: 0/4
 - HT: 12
