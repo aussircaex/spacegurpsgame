@@ -4,7 +4,7 @@ The operators all wear coverings - the guards with face-concealing helmets, and 
 
 Tier 1 clients like you can access their weapons store, but the station clearly also has a shipyard for custom modifications to spacecraft. Perhaps you can access their services if you gain more of their trust…
 
-_Note: if a weapon isn't listed here that you are interested in, feel free to ask the DM. Prices are generally 2x the prince in a sourcebook for LC2 items._
+_Note: if a weapon isn't listed here that you are interested in, feel free to ask the DM. Prices are generally 2x the price in a sourcebook for LC2 items._
 ### Ammunition
 
 - Standard ammunition (Full metal jacket rounds, shells, rifled slugs) - normal price
