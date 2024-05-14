@@ -1,0 +1,3 @@
+Exactly what it says on the 300-mile long sign in space, Space Vegas is a planet devoted entirely to its gambling operations. Entire cities and regions are owned and operated as casinos; entire apartment blocks are considered "hotels", grocery stores are all considered part of "food service", and of course, at the center of it all, the casino.
+
+Nearly every inhabitant works for these casinos in some way or another, meaning most people have the same ordinary jobs - nursing, education, plumbing, etc. - as anywhere else, but none can escape the Vegas-style gaudiness and corporate theming.
