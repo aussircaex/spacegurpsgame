@@ -78,7 +78,7 @@ Note: slugs multiply damage by 4, change damage to pi++, add +1 Acc, 1/2d range 
 		* (*Note: the plates being ablative is a house rule; it'd exceed much more powerful armors otherwise*)
 * **Clamshell Armor**: Similar to a present-day soldier's body armor, but only on the chest.
 	* **Light**: *Torso; DR 30; $1200; 12lbs; LC2*
-	* **Heavy**: *Torso; DR 45; $1200; 18lbs; LC2*
+	* **Heavy**: *Torso; DR 45; $1800; 18lbs; LC2*
 
 ### Sealed Combat Armor
 * Imagine Commander Shepard's armor from *Mass Effect* or Stormtrooper armor from *Star Wars*; this is still firmly in the "unpowered body armor" category.
