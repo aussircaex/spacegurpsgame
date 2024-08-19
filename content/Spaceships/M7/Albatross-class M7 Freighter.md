@@ -2,7 +2,7 @@ The *Albatross* is an older freighter design, designed for versatility and effic
 
 The *Albatross* includes a generous 93 tons of refrigerated cargo capacity, and boasts luxury accommodations for as many as 8 VIP clients. It was specially designed with modularity in its guest suites - with 2 work-hours per suite, each of the four Passenger Quarters can be converted to ordinary Cabins to double their capacity.
 
-Cost: $14,425,000
+Cost: $15,025,000
 - dST/HP: 50
 - Hnd/SR: -2/4
 - HT: 13
@@ -29,7 +29,7 @@ F
 </ol>
 M
 <ol>
-<li>(!) Secondary Battery - 2x Quad 10MJ Blaster Cannons [3 tons steerage unused] - $600K</li>
+<li>(!) Secondary Battery - 2x Quad 10MJ Blaster Cannons [3 tons steerage unused] - $1200K</li>
 <li>Cargo Hold, refrigerated - 15t - $7.5K</li>
 <li>Cargo Hold, refrigerated - 15t - $7.5K</li>
 <li>Cargo Hold, refrigerated - 15t - $7.5K</li>

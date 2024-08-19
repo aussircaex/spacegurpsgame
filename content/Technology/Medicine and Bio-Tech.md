@@ -1,0 +1,11 @@
+At TL10, the tech exists to upload a mind to digital form, like what happened to Dr. Saba. However, humanity's TL10 means they can only get low-res scans of the mind (which loses half their points spent on skills), unless using a process called Destructive Uploading, which destroys the brain in the process.  
+  
+The brain scans can be run by a sophisticated enough computer, often installed in a robot. However (and this is my decision for this game) these are VIs and are not sapient mind-transfers (thus, this is not a way to "come back" after death).  
+  
+Only the UU possesses the ability to download brain scans into a flesh-and-blood body (besides being my story-based decision, it's a Superscience^ tech anyway!). According to Dr. Saba, downloading a mind into an "occupied" person simply kills them. Downloading a mind into an "empty" clone body works, but if the body is not a clone of the mind's original, the patient nearly always suffers from extreme dysphoria concerning their entire body, and frequently die quickly.  
+  
+Also of note: at TL10, humanity has the technology for growth tanks - artificial wombs, essentially. These were important for the strady regrowth of the human population after the burning of Earth - most planets had well above the minimum viable population for survival, but being spread out, humanity would not have recovered in merely two hundred years as it did.  
+  
+Very recent breakthrough, TL10 versions of the tech can develop a fetus in as little as one week, but this is almost never practiced, as concerns about the long term effects of such acceleration is unknown. A famous but controversial story was reported of a couple that, after the tragic death of their infant, had them cloned and birthed only a week later. The ethics of that have become a hot and controversial topic in the media since then.  
+  
+This also means that an *adult* human body can be grown in about 18-20 weeks. However, as brain downloading is not possible with human tech, this can only produce "newborns" and is not practiced, but it is what the UU used to create their clone soldiers. It also has led to major breakthroughs in organ replacement/transplant medicine.
